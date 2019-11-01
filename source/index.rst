@@ -58,12 +58,11 @@
    precautions
    charger
    planner
-   preflight
    radiolink
    uav
-   launch
+   preflight
    specs
-   
+
 
 
 
