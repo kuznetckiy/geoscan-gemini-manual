@@ -62,8 +62,8 @@ eMMC- копирование на SD/Wi-Fi/USB
    reference
    uav
    charger
-   planner
    radiolink
+   planner
    preflight
    precautions
    specs
