@@ -146,14 +146,6 @@ latex_elements = {
     \usepackage{fontspec}
     \setmainfont[Ligatures=TeX]{Arial}
     \setsansfont[Ligatures=TeX]{Arial}
-    \usepackage[russian]{babel}',
-    \usepackage[utf8]{inputenc}
-    \usepackage{cmap}
-    \usepackage[T1,T2A]{fontenc}
-    \DeclareUnicodeCharacter{00A0}{\\nobreakspace}
-}
-
-
     """,
 
 }
